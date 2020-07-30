@@ -1,5 +1,9 @@
 # NiceImageView
 
+转自：https://github.com/SheHuan/NiceImageView
+修复圆角一下子会变方的问题
+自用
+
 ### 效果预览
 
 |![](images/r1.PNG)|![](images/r2.PNG)|![](images/r3.PNG)|
@@ -26,7 +30,7 @@ allprojects {
 **Step 2. 添加项目依赖**
 ``` gradle
 dependencies {
-    implementation 'com.github.SheHuan:NiceImageView:1.0.5'
+    implementation 'com.github.Giftedcat:NiceImageView:1.0.0'
 }
 ```
 **Step 3. 在布局文件中添加CornerLabelView**
