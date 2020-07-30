@@ -1,5 +1,9 @@
 # NiceImageView
 
+转自：https://github.com/SheHuan/NiceImageView
+修复圆角一下子会变方的问题
+自用
+
 ### 效果预览
 
 |![](images/r1.PNG)|![](images/r2.PNG)|![](images/r3.PNG)|
